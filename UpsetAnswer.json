@@ -1,0 +1,6 @@
+{
+  "resource": "/",
+  "path": "/",
+  "httpMethod": "POST",
+  "body": "{\"answer\":\"This is my super important answer\",\"questionId\":\"3f057cdb83a946e89b43db0ed9ceaf84\"}"
+}
